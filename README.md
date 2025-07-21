@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Am0605
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning GoogleColab
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: adham8663@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to Learn
